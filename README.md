@@ -1,4 +1,4 @@
-# colorGame
+# rgb colorGame
 RGB color game project 
 It uses javascript dom manipulation to manipulate various elements in html.
 Some of the key functionalities are-
